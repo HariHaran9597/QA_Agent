@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+qa-env/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Git
+.git
+.gitignore
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
